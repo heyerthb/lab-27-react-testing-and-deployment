@@ -4,6 +4,7 @@ node_js:
 branches:
   only:
     - master
+    - working
 script:
   - npm run lint
   - npm test
