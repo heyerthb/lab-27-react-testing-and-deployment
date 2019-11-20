@@ -6,6 +6,7 @@
   "scripts": {
     "test": "react-scripts test --env=jsdom",
     "lint": "eslint src/**/*.js",
+    "build": "react-scripts build",
     "test:update": "react-scripts test --updateSnapshot",
     "start": "react-scripts start"
   },
