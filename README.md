@@ -5,10 +5,15 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/heyerthb/lab-27-react-testing-and-deployment/commits/working)
 * [travis](https://travis-ci.com/heyerthb/lab-27-react-testing-and-deployment)
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [netlify](https://app.netlify.com/sites/keen-almeida-b89d04/deploys/5dd4896fb506ff3972d938a4) 
+* [AWS S3](http://heyert-lab-27.s3-website-us-west-2.amazonaws.com/) 
+* [AWS amplify](https://working.d3pdzt5rd58ryc.amplifyapp.com/) 
+
+
+
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
